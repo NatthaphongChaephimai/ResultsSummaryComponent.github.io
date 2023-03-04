@@ -204,6 +204,10 @@ h1 {
     padding: 15px 0;
 }
 
+.btn:hover {
+    background: var(--neutral-Dark-Gray-Blue);
+}
+
 @media (max-width: 376px) {
 
     .home {
